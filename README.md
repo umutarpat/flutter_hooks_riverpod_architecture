@@ -1,4 +1,4 @@
-# flutter_hooks_riverpod_structure
+# flutter_hooks_riverpod_architecture
 
 ## This project gives you an insight on how to create unit testable architecture with flutter_hooks, Riverpod, Freezed, Repository Pattern and MVVM.
 
